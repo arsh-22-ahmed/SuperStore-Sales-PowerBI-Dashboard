@@ -1,4 +1,4 @@
-##📊 Northwind Sales Analysis – Power BI Project
+## 📊 Northwind Sales Analysis – Power BI Project
 
 This project is an interactive Power BI dashboard created using the **Northwind Traders dataset**. It provides insights into sales, customer segmentation, inventory trends, and employee performance.
 
